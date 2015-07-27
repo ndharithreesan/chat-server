@@ -1,0 +1,19 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "A simple test chat server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndharithreesan/chat-server.git"
+  },
+  "author": "Nimi Dharithreesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndharithreesan/chat-server/issues"
+  },
+  "homepage": "https://github.com/ndharithreesan/chat-server#readme"
+}
